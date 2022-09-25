@@ -1,3 +1,5 @@
+// write code for other traversal
+
 class Node{
     String name;
     Node left,right;
