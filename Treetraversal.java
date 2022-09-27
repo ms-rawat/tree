@@ -21,9 +21,10 @@ public class Treetraversal{
     System.out.println(node.name+" ");
     printInOrder(node.right);
  }
-//  void printInOrder(){
-//     printInOrder(root);
-//  }
+ void printInOrder(){
+    printInOrder(root);
+    System.out.println("Hello my name is chinu");
+ }
     public static void main(String[] args) {
         Treetraversal tree = new Treetraversal();
         tree.root=new Node("mohar");
