@@ -25,6 +25,7 @@ public class Treetraversal{
     printInOrder(root);
     System.out.println("Hello my name is chinu");
     System.out.println("Hello my name is chinu");
+    System.out.println("Hello my name is mohar");
  }
     public static void main(String[] args) {
         Treetraversal tree = new Treetraversal();
